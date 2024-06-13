@@ -1,0 +1,19 @@
+{
+    "name": "joeszeto/schema-from-data",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "JoeSzeto\\SchemaFromData\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Szeto",
+            "email": "jokersk119@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0"
+    }
+}
